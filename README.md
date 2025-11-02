@@ -2,7 +2,7 @@
 
 Site do projeto **Estação Inova – Eixo Tecnologia**, uma iniciativa da Estação Conhecimento de Arari na área de tecnologia.
 
-[🔗 Acesse o site](https://emnuelht.github.io/EstacaoInova/)
+[🔗 Acesse o site](https://emnuelht.github.io/estacao-inova/)
 
 ## 📘 Sobre o Projeto
 
